@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "calculadora-imc-andre",
+    "slug": "snack-227598ec-4283-4f58-b99a-e8032117f14b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.andrelisboa.snack227598ec42834f58b99ae8032117f14b"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "69655b5c-2026-4cdb-b271-f717be5583a6"
+      }
+    }
+  }
+}
